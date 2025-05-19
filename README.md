@@ -1,4 +1,4 @@
-Olá, eu sou Bruna Garcia
+Olá, eu sou Bruna!
 
 Sou apaixonada por jogos e tecnologia, e foi esse amor que me guiou até essa área incrível. Desde pequena, sempre me encantei pelas aventuras pixeladas e pelo poder que a tecnologia tem de transformar ideias em realidade.
 
