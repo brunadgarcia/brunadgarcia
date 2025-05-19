@@ -6,7 +6,7 @@ Sou apaixonada por jogos e tecnologia, e foi esse amor que me guiou até essa á
 
 ---
 
-**Vamos conectar?**
+**Adoraria trocar uma ideia com você!**
 
 📫 Me envie uma mensagem ou conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seulinkedin/)
 
