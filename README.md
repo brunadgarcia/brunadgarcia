@@ -2,7 +2,7 @@
   <table border="null">
     <tr>
       <td><h1>Olá, seja bem-vindo ao meu perfil!</h1></td>
-      <td><img src="https://i.pinimg.com/originals/ab/11/39/ab1139d58fc0914454881b866b2a914a.gif" width="200"></td>
+      <td><img src="https://i.pinimg.com/originals/ab/11/39/ab1139d58fc0914454881b866b2a914a.gif" width="180"></td>
     </tr>
   </table>
 </div>
